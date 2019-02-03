@@ -1,4 +1,4 @@
-# Nanodegree: Artificial Programing with Python Notes
+# Nanodegree: Artificial Inteligence Programing with Python Notes
 
 ### Numpy
 ### Pandas
